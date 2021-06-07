@@ -1,1 +1,1 @@
-Successfully integrated Jenkins with Github. keerthi
+Successfully integrated Jenkins with Github.
